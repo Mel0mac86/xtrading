@@ -1,0 +1,120 @@
+famiglia,simbolo,n_13-19,r_13-19,t_13-19,n_20-22,r_20-22,t_20-22,n_23-26,r_23-26,t_23-26,scelta,confermata
+Momentum 12 mesi,SPX500,47,0.136,0.94,21,0.177,0.93,28,-0.089,-0.53,False,False
+Momentum 12 mesi,NAS100,50,0.06,0.4,21,0.281,1.4,32,-0.286,-1.64,False,False
+Momentum 12 mesi,US30,47,0.075,0.55,22,-0.23,-1.2,28,-0.137,-0.89,False,False
+Momentum 12 mesi,US2000,49,0.043,0.32,21,-0.112,-0.6,27,0.114,0.66,False,False
+Momentum 12 mesi,DE30,49,-0.055,-0.43,22,-0.173,-0.91,26,0.024,0.15,False,False
+Momentum 12 mesi,UK100,50,-0.21,-1.9,24,-0.38,-1.75,27,0.026,0.15,False,False
+Momentum 12 mesi,FR40,51,-0.159,-1.37,24,-0.426,-2.42,27,-0.138,-0.94,False,False
+Momentum 12 mesi,EU50,46,0.077,0.64,23,-0.241,-1.23,26,0.018,0.1,False,False
+Momentum 12 mesi,JP225,49,-0.14,-1.19,21,0.013,0.06,28,-0.112,-0.64,False,False
+Momentum 12 mesi,AU200,50,-0.048,-0.36,23,-0.369,-1.89,28,-0.1,-0.57,False,False
+Momentum 12 mesi,HK33,53,-0.216,-1.56,21,-0.073,-0.38,28,-0.121,-0.6,False,False
+Momentum 12 mesi,CH20,47,0.031,0.25,21,-0.041,-0.2,27,0.145,0.76,False,False
+Momentum 12 mesi,ESP35,14,-0.058,-0.21,22,-0.144,-0.53,26,0.131,0.73,False,False
+Momentum 12 mesi,NL25,50,-0.104,-0.87,24,-0.352,-2.04,28,-0.15,-0.95,False,False
+Momentum 12 mesi,CN50,52,-0.052,-0.3,20,-0.028,-0.15,27,-0.169,-1.22,False,False
+Momentum 12 mesi,XAUUSD,49,-0.039,-0.29,21,-0.237,-1.4,26,0.07,0.34,False,False
+Momentum 12 mesi,XAGUSD,48,0.13,1.03,21,-0.026,-0.13,28,-0.088,-0.49,True,False
+Momentum 12 mesi,XPTUSD,51,-0.062,-0.44,20,0.064,0.36,27,-0.13,-0.92,False,False
+Momentum 12 mesi,XPDUSD,47,0.255,1.82,21,-0.022,-0.12,28,-0.09,-0.58,True,False
+Momentum 12 mesi,XCUUSD,48,0.069,0.5,20,0.065,0.32,27,-0.107,-0.75,False,False
+Momentum 12 mesi,WTI,50,-0.031,-0.23,23,-0.122,-0.47,26,-0.351,-2.57,False,False
+Momentum 12 mesi,BRENT,49,-0.117,-0.93,23,-0.041,-0.15,28,-0.166,-0.98,False,False
+Momentum 12 mesi,NATGAS,49,-0.223,-1.92,21,0.094,0.37,26,0.103,0.59,False,False
+Momentum 12 mesi,CORN,47,-0.187,-1.59,22,-0.012,-0.05,28,-0.31,-2.23,False,False
+Momentum 12 mesi,WHEAT,49,-0.099,-0.79,20,0.126,0.63,28,-0.206,-1.55,False,False
+Momentum 12 mesi,SOYBN,49,-0.063,-0.44,19,0.089,0.41,26,0.08,0.57,False,False
+Momentum 12 mesi,SUGAR,49,-0.02,-0.17,22,-0.386,-3.13,26,-0.08,-0.55,False,False
+Momentum 12 mesi,UST2,49,-1.562,-14.18,21,-1.36,-3.63,25,-0.668,-4.86,False,False
+Momentum 12 mesi,UST5,48,-0.543,-5.45,20,-0.07,-0.34,26,-0.172,-1.17,False,False
+Momentum 12 mesi,UST10,46,-0.185,-1.57,20,0.024,0.13,26,-0.115,-0.8,False,False
+Momentum 12 mesi,UST30,50,-0.244,-1.92,21,-0.005,-0.02,26,-0.028,-0.21,False,False
+Momentum 12 mesi,BUND,52,-0.226,-1.73,20,0.15,0.68,26,-0.264,-1.94,False,False
+Momentum 12 mesi,GILT,49,-0.091,-0.63,21,-0.017,-0.08,26,-0.066,-0.41,False,False
+Donchian 50/20,SPX500,31,-0.072,-0.3,11,0.109,0.32,19,-0.133,-0.42,False,False
+Donchian 50/20,NAS100,36,-0.186,-0.75,12,-0.102,-0.33,20,-0.002,-0.01,False,False
+Donchian 50/20,US30,36,-0.103,-0.29,18,-0.557,-2.1,18,-0.376,-1.37,False,False
+Donchian 50/20,US2000,32,-0.306,-1.53,11,0.397,0.53,20,-0.381,-2.23,False,False
+Donchian 50/20,DE30,30,-0.28,-1.19,17,-0.481,-1.49,22,-0.445,-1.79,False,False
+Donchian 50/20,UK100,34,-0.651,-4.02,14,-0.328,-0.64,11,-0.012,-0.03,False,False
+Donchian 50/20,FR40,33,-0.506,-3.04,14,0.062,0.09,18,-0.6,-2.87,False,False
+Donchian 50/20,EU50,32,-0.532,-3.51,14,-0.163,-0.36,17,-0.331,-1.21,False,False
+Donchian 50/20,JP225,33,-0.485,-2.22,10,0.282,0.35,14,0.254,0.48,False,False
+Donchian 50/20,AU200,32,-0.583,-4.23,14,-0.368,-1.0,18,-0.796,-5.31,False,False
+Donchian 50/20,HK33,32,-0.305,-1.72,12,-0.2,-0.66,18,-0.673,-3.68,False,False
+Donchian 50/20,CH20,40,-0.809,-10.63,14,-0.659,-2.28,23,-0.719,-5.19,False,False
+Donchian 50/20,ESP35,11,-0.385,-1.01,15,-0.249,-0.4,17,0.105,0.34,False,False
+Donchian 50/20,NL25,38,-0.666,-4.79,14,-0.091,-0.25,22,-0.495,-2.49,False,False
+Donchian 50/20,CN50,19,1.437,1.19,12,0.015,0.04,13,0.012,0.04,True,True
+Donchian 50/20,XAUUSD,29,-0.226,-0.77,12,-0.092,-0.32,11,3.145,1.14,False,False
+Donchian 50/20,XAGUSD,30,-0.19,-0.71,13,-0.012,-0.02,15,0.973,0.71,False,False
+Donchian 50/20,XPTUSD,32,-0.358,-1.52,10,0.083,0.19,20,-0.346,-0.99,False,False
+Donchian 50/20,XPDUSD,29,0.325,0.6,11,-0.082,-0.21,19,-0.531,-2.53,False,False
+Donchian 50/20,XCUUSD,31,-0.378,-1.92,12,0.548,1.1,17,-0.293,-0.95,False,False
+Donchian 50/20,WTI,28,0.365,0.64,11,1.123,1.16,15,-0.141,-0.26,False,False
+Donchian 50/20,BRENT,26,0.601,0.81,12,0.84,0.89,15,-0.116,-0.19,False,False
+Donchian 50/20,NATGAS,34,-0.164,-0.61,14,0.298,0.47,21,-0.391,-1.78,False,False
+Donchian 50/20,CORN,23,0.278,0.71,10,2.201,1.08,18,-0.169,-0.66,False,False
+Donchian 50/20,WHEAT,35,-0.563,-3.45,14,-0.28,-0.76,21,-0.56,-3.06,False,False
+Donchian 50/20,SOYBN,28,-0.009,-0.02,11,1.731,0.95,19,-0.573,-2.8,False,False
+Donchian 50/20,SUGAR,27,0.121,0.4,14,-0.481,-1.89,15,0.033,0.11,False,False
+Donchian 50/20,UST2,30,-2.737,-9.16,10,-2.385,-1.81,12,-2.259,-5.2,False,False
+Donchian 50/20,UST5,27,-1.108,-11.74,12,-0.134,-0.21,16,-0.964,-5.49,False,False
+Donchian 50/20,UST10,26,-0.619,-2.62,13,0.016,0.03,15,-0.692,-3.17,False,False
+Donchian 50/20,UST30,33,-0.425,-2.25,12,0.29,0.52,18,-0.627,-3.33,False,False
+Donchian 50/20,BUND,25,-0.325,-1.14,13,-0.69,-1.98,18,-0.899,-7.47,False,False
+Donchian 50/20,GILT,33,-0.386,-1.52,11,-0.285,-0.88,16,-0.728,-4.73,False,False
+RSI2 dip-buy,SPX500,61,0.061,1.06,21,0.037,0.32,37,0.085,1.03,True,True
+RSI2 dip-buy,NAS100,65,0.042,0.6,16,0.052,0.32,34,-0.039,-0.52,False,False
+RSI2 dip-buy,US30,60,-0.029,-0.44,21,0.004,0.04,37,0.005,0.06,False,False
+RSI2 dip-buy,US2000,50,0.059,1.02,20,0.066,0.81,33,0.074,1.05,True,True
+RSI2 dip-buy,DE30,48,0.067,1.1,22,-0.071,-0.58,38,-0.032,-0.44,True,False
+RSI2 dip-buy,UK100,53,0.023,0.37,19,0.012,0.12,33,0.0,0.01,False,False
+RSI2 dip-buy,FR40,53,0.106,1.76,19,0.091,0.91,30,-0.122,-1.39,True,True
+RSI2 dip-buy,EU50,45,-0.072,-0.88,18,0.041,0.32,29,0.056,0.72,False,False
+RSI2 dip-buy,JP225,48,0.149,2.04,19,0.033,0.28,33,0.12,1.55,True,True
+RSI2 dip-buy,AU200,54,-0.092,-1.33,19,0.042,0.45,32,-0.025,-0.28,False,False
+RSI2 dip-buy,HK33,53,0.007,0.09,9,0.001,0.01,23,0.143,1.99,False,False
+RSI2 dip-buy,CH20,59,0.135,1.96,18,-0.134,-0.99,25,-0.071,-0.7,True,False
+RSI2 dip-buy,ESP35,4,-0.296,-0.88,14,-0.143,-0.98,36,0.07,1.03,False,False
+RSI2 dip-buy,NL25,57,-0.041,-0.56,20,0.065,0.51,35,0.074,1.08,False,False
+RSI2 dip-buy,CN50,47,0.081,1.39,15,0.024,0.19,22,-0.01,-0.12,True,True
+Turn of month,SPX500,84,-0.045,-0.87,36,0.119,1.74,46,0.043,0.64,False,False
+Turn of month,NAS100,84,-0.034,-0.68,36,0.099,1.29,46,0.036,0.5,False,False
+Turn of month,US30,84,-0.04,-0.73,36,0.119,2.0,46,0.045,0.62,False,False
+Turn of month,US2000,84,-0.09,-1.84,36,0.105,1.75,46,-0.006,-0.07,False,False
+Turn of month,DE30,84,-0.108,-1.84,36,0.18,3.63,46,0.018,0.23,False,False
+Turn of month,UK100,84,-0.099,-1.7,36,0.174,3.16,46,-0.031,-0.43,False,False
+Turn of month,FR40,84,-0.11,-1.85,36,0.274,4.19,46,-0.072,-0.93,False,False
+Turn of month,EU50,84,-0.135,-2.24,36,0.173,3.33,46,-0.012,-0.17,False,False
+Turn of month,JP225,84,-0.069,-1.11,36,0.078,1.1,46,0.042,0.55,False,False
+Turn of month,AU200,84,-0.168,-3.14,36,0.083,1.81,46,-0.037,-0.53,False,False
+Turn of month,HK33,84,-0.043,-0.65,36,0.09,1.21,46,-0.025,-0.3,False,False
+Turn of month,CH20,84,-0.096,-1.67,36,0.206,2.59,46,-0.011,-0.14,False,False
+Turn of month,ESP35,37,0.01,0.11,36,0.145,2.13,46,-0.009,-0.12,False,False
+Turn of month,NL25,84,-0.095,-1.55,36,0.22,3.77,46,0.006,0.08,False,False
+Turn of month,CN50,84,0.063,1.2,36,0.222,1.99,46,-0.057,-0.75,True,True
+Trend SMA200,SPX500,13,0.035,0.15,9,0.123,0.46,11,0.327,1.04,False,False
+Trend SMA200,NAS100,15,0.535,1.17,4,0.604,0.85,10,0.493,0.95,True,True
+Trend SMA200,US30,20,0.198,0.91,11,0.005,0.02,15,0.158,0.92,False,False
+Trend SMA200,US2000,26,-0.054,-0.64,9,0.205,0.57,11,0.119,0.58,False,False
+Trend SMA200,DE30,25,-0.076,-1.18,9,0.066,0.41,10,0.282,0.99,False,False
+Trend SMA200,UK100,37,-0.187,-3.82,12,-0.179,-3.36,16,-0.07,-0.52,False,False
+Trend SMA200,FR40,20,-0.124,-1.74,5,0.307,0.88,17,-0.153,-3.33,False,False
+Trend SMA200,EU50,31,-0.066,-0.95,5,0.263,1.04,12,0.011,0.09,False,False
+Trend SMA200,JP225,28,-0.021,-0.21,20,-0.032,-0.33,16,0.287,1.0,False,False
+Trend SMA200,AU200,21,-0.082,-1.01,9,-0.064,-0.46,25,-0.103,-1.91,False,False
+Trend SMA200,HK33,29,-0.031,-0.19,7,-0.201,-1.73,21,-0.048,-0.64,False,False
+Trend SMA200,CH20,24,-0.115,-1.6,13,0.016,0.13,18,-0.098,-1.07,False,False
+Trend SMA200,ESP35,17,-0.256,-5.85,11,-0.157,-1.52,1,12.137,,False,False
+Trend SMA200,NL25,26,-0.05,-0.59,15,0.024,0.11,16,0.12,0.66,False,False
+Trend SMA200,CN50,10,0.883,1.22,8,0.096,0.37,19,-0.193,-3.07,False,False
+Breakout giorno prec.,XAUUSD,557,-0.036,-1.27,239,-0.033,-0.79,324,0.003,0.08,False,False
+Breakout giorno prec.,XAGUSD,538,-0.028,-0.99,243,0.054,1.02,313,0.044,1.25,False,False
+Breakout giorno prec.,XPTUSD,571,-0.04,-1.54,233,0.004,0.1,314,-0.046,-1.28,False,False
+Breakout giorno prec.,XPDUSD,589,0.006,0.24,212,0.039,0.78,296,-0.008,-0.23,False,False
+Breakout giorno prec.,XCUUSD,554,-0.035,-1.31,241,-0.028,-0.63,320,-0.033,-0.9,False,False
+Breakout giorno prec.,WTI,564,-0.011,-0.41,252,0.012,0.24,327,-0.009,-0.26,False,False
+Breakout giorno prec.,BRENT,554,-0.025,-0.94,250,-0.001,-0.02,325,-0.037,-1.04,False,False
+Breakout giorno prec.,NATGAS,609,-0.033,-1.29,251,-0.052,-1.19,324,-0.006,-0.15,False,False
