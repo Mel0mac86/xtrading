@@ -1,0 +1,14 @@
+; XT_Aggressivo50 - preset "Prop challenge 1 fase" (conto 10.000, target +6%, perdita giornaliera 3%, totale 6%)
+; Backtest 2013-2026: fase superata ~11% entro 30 gg, ~28% entro 90 gg, ~47% entro 1 anno; bocciata ~45% entro 1 anno.
+; Il rischio 6% per trade e' limitato in pratica dallo stop giornaliero all'1,5% (stop delle strategie molto larghi).
+InpRiskBasePct=6.0
+InpWinMult=1.0
+InpMaxMult=1.0
+InpInitialBalance=0
+InpMinLotTolerance=1.5
+InpTargetPct=6.0
+InpFloorPct=5.5
+InpMaxDays=0
+InpDailyStopPct=1.5
+InpSymAsian=EURCHF
+InpSymZ=EURGBP

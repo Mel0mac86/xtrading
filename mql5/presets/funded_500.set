@@ -1,0 +1,13 @@
+; XT_Aggressivo50 - preset "Conto finanziato 10.000: obiettivo +5% (500)" dopo aver superato la challenge
+; Stesse regole di rischio della challenge; si ferma a +5% per chiedere il pagamento.
+InpRiskBasePct=6.0
+InpWinMult=1.0
+InpMaxMult=1.0
+InpInitialBalance=0
+InpMinLotTolerance=1.5
+InpTargetPct=5.0
+InpFloorPct=5.5
+InpMaxDays=0
+InpDailyStopPct=1.5
+InpSymAsian=EURCHF
+InpSymZ=EURGBP
