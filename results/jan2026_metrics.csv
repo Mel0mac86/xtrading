@@ -1,0 +1,23 @@
+,5% fisso,5% + anti-martingala,10% + anti-martingala (aggressivo)
+capitale finale EUR,57.15,72.79,101.89
+guadagno EUR,7.15,22.79,51.89
+rendimento %,14.3,45.6,103.8
+massimo raggiunto EUR,65.33,91.78,101.89
+minimo toccato EUR,46.7,46.7,43.4
+drawdown max EUR,11.33,22.15,9.57
+drawdown max %,17.3,24.1,9.4
+trade,26,26,10
+vincenti,13,13,6
+perdenti,13,13,4
+vincenti %,50.0,50.0,60.0
+guadagno medio vincente EUR,2.14,4.12,10.32
+perdita media perdente EUR,-1.59,-2.36,-1.4
+miglior trade EUR,4.39,10.91,21.81
+peggior trade EUR,-2.5,-7.5,-5.0
+profit factor,1.35,1.74,11.04
+max perdite di fila,5,5,3
+mesi positivi,6 su 11,6 su 11,3 su 11
+miglior mese EUR,8.18,24.53,25.19
+peggior mese EUR,-10.4,-15.4,-2.58
+rischio max su un trade EUR,2.5,7.5,15.0
+freno scattato,no,no,2026-05-12

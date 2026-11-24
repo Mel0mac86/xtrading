@@ -1,0 +1,27 @@
+strategia,entrata,uscita,direzione,R,EUR
+Z-score fade EURGBP,05/01 00:00,06/01 10:00,long,-1.0,-2.5
+Z-score fade EURGBP,07/01 00:00,28/01 00:00,long,0.61,1.52
+Asian fade EURCHF,12/01 03:00,12/01 11:00,long,-0.04,-0.11
+Asian fade EURCHF,19/01 01:00,19/01 11:00,long,-0.0,-0.01
+Asian fade EURCHF,26/01 01:00,26/01 11:00,long,-0.07,-0.19
+Z-score fade EURGBP,03/02 00:00,11/02 00:00,long,1.25,3.11
+Z-score fade EURGBP,02/03 00:00,04/03 00:00,short,1.13,2.82
+Z-score fade EURGBP,12/03 00:00,31/03 00:00,long,0.83,2.08
+Z-score fade EURGBP,01/05 00:00,15/05 00:00,long,1.45,3.64
+Asian fade EURCHF,11/05 01:00,11/05 03:00,long,0.17,0.43
+Z-score fade EURGBP,18/05 00:00,20/05 00:00,short,0.94,2.36
+Z-score fade EURGBP,26/05 00:00,16/06 00:00,long,0.29,0.71
+Z-score fade EURGBP,30/06 00:00,01/07 19:00,long,-1.0,-2.5
+Z-score fade EURGBP,02/07 00:00,10/07 13:00,long,-1.0,-2.5
+Asian fade EURCHF,10/07 05:00,10/07 11:00,long,-0.01,-0.02
+Z-score fade EURGBP,13/07 00:00,15/07 19:00,long,-1.0,-2.5
+Z-score fade EURGBP,16/07 00:00,06/08 00:00,long,1.76,4.39
+Z-score fade EURGBP,25/09 00:00,01/10 00:00,short,1.53,3.83
+Asian fade EURCHF,29/09 08:00,29/09 11:00,short,0.16,0.41
+Z-score fade EURGBP,02/10 00:00,05/10 05:00,long,-1.0,-2.5
+Z-score fade EURGBP,06/10 00:00,14/10 12:00,long,-1.0,-2.5
+Z-score fade EURGBP,15/10 00:00,20/10 12:00,long,-1.0,-2.5
+Z-score fade EURGBP,21/10 00:00,30/10 11:00,long,-1.0,-2.5
+Asian fade EURCHF,30/10 01:00,30/10 11:00,long,-0.16,-0.4
+Z-score fade EURGBP,02/11 00:00,23/11 00:00,long,0.77,1.93
+Asian fade EURCHF,09/11 05:00,09/11 10:00,short,0.26,0.65
